@@ -1,0 +1,8 @@
+
+*.db
+
+*.log
+
+targer/
+
+bin/
