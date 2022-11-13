@@ -1,0 +1,21 @@
+{
+  "id": "19b7ced9-960f-4526-aa84-867772cbc378",
+  "version": "2.0",
+  "name": "Hurt Me Plenty",
+  "url": "",
+  "tests": [{
+    "id": "7dc038c4-8136-4cc4-8a70-86f91d8d9319",
+    "name": "Untitled",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "25022620-c774-4ca6-9e84-a2f600f03382",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["7dc038c4-8136-4cc4-8a70-86f91d8d9319"]
+  }],
+  "urls": [],
+  "plugins": []
+}
