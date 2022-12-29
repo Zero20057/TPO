@@ -1,0 +1,751 @@
+D:\Загрузки\Tests\bin\Debug\net6.0\testhost.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\testhost.exe
+D:\Загрузки\Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Загрузки\Tests\bin\Debug\net6.0\nunit.engine.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Загрузки\Tests\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Загрузки\Tests\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Загрузки\Tests\bin\Debug\net6.0\Tests.deps.json
+D:\Загрузки\Tests\bin\Debug\net6.0\Tests.runtimeconfig.json
+D:\Загрузки\Tests\bin\Debug\net6.0\Tests.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\Tests.pdb
+D:\Загрузки\Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\nunit.framework.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\WebDriver.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\Tests\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+D:\Загрузки\Tests\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Tests\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+D:\Загрузки\Tests\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+D:\Загрузки\Tests\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+D:\Загрузки\Tests\obj\Debug\net6.0\Tests.csproj.CopyComplete
+D:\Загрузки\Tests\obj\Debug\net6.0\Tests.dll
+D:\Загрузки\Tests\obj\Debug\net6.0\refint\Tests.dll
+D:\Загрузки\Tests\obj\Debug\net6.0\Tests.pdb
+D:\Загрузки\Tests\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+D:\Загрузки\Tests\obj\Debug\net6.0\ref\Tests.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\SeleniumExtras.PageObjects.dll
+D:\Загрузки\Tests\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\testhost.exe
+E:\TPO-main\TPO 10\bin\Debug\net6.0\testhost.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\testcentric.engine.metadata.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+E:\TPO-main\TPO 10\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+E:\TPO-main\TPO 10\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+E:\TPO-main\TPO 10\bin\Debug\net6.0\nunit.engine.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\nunit.engine.api.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\nunit.engine.core.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Tests.deps.json
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Tests.runtimeconfig.json
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Tests.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Tests.pdb
+E:\TPO-main\TPO 10\bin\Debug\net6.0\SeleniumExtras.PageObjects.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\nunit.framework.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\WebDriver.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TPO-main\TPO 10\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+E:\TPO-main\TPO 10\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\TPO-main\TPO 10\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+E:\TPO-main\TPO 10\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+E:\TPO-main\TPO 10\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+E:\TPO-main\TPO 10\obj\Debug\net6.0\Tests.csproj.CopyComplete
+E:\TPO-main\TPO 10\obj\Debug\net6.0\Tests.dll
+E:\TPO-main\TPO 10\obj\Debug\net6.0\refint\Tests.dll
+E:\TPO-main\TPO 10\obj\Debug\net6.0\Tests.pdb
+E:\TPO-main\TPO 10\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+E:\TPO-main\TPO 10\obj\Debug\net6.0\ref\Tests.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\testhost.exe
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\testhost.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\nunit.engine.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\nunit.engine.api.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\nunit.engine.core.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\testcentric.engine.metadata.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Tests.deps.json
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Tests.runtimeconfig.json
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Tests.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Tests.pdb
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\SeleniumExtras.PageObjects.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\nunit.framework.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\WebDriver.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\Tests.csproj.CopyComplete
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\Tests.dll
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\refint\Tests.dll
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\Tests.pdb
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+E:\Универ\ТПО\TPO-main\TPO 10\obj\Debug\net6.0\ref\Tests.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\testhost.exe
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\testhost.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\nunit.engine.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Tests.deps.json
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Tests.runtimeconfig.json
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Tests.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Tests.pdb
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\SeleniumExtras.PageObjects.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\nunit.framework.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\WebDriver.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Загрузки\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\Tests.csproj.CopyComplete
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\Tests.dll
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\refint\Tests.dll
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\Tests.pdb
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+D:\Загрузки\TPO 11-12\obj\Debug\net6.0\ref\Tests.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\testhost.exe
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\testhost.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\nunit.engine.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\nunit.engine.api.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\nunit.engine.core.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\testcentric.engine.metadata.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Tests.deps.json
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Tests.runtimeconfig.json
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Tests.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Tests.pdb
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\SeleniumExtras.PageObjects.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\nunit.framework.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\WebDriver.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.csproj.CopyComplete
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\refint\Tests.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.pdb
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\ref\Tests.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\AngleSharp.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\WebDriverManager.dll
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.resorces.UserFirst.resources
+F:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.csproj.GenerateResource.cache
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\testhost.exe
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\testhost.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\nunit.engine.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\nunit.engine.api.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\nunit.engine.core.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\testcentric.engine.metadata.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Tests.deps.json
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Tests.runtimeconfig.json
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Tests.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Tests.pdb
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\AngleSharp.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\SeleniumExtras.PageObjects.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\nunit.framework.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\WebDriver.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\WebDriverManager.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.resorces.UserFirst.resources
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.csproj.GenerateResource.cache
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.csproj.CopyComplete
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\refint\Tests.dll
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.pdb
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+E:\Универ\ТПО\TPO-main\TPO 11-12\obj\Debug\net6.0\ref\Tests.dll
+D:\TPO 11-12\bin\Debug\net6.0\testhost.exe
+D:\TPO 11-12\bin\Debug\net6.0\testhost.dll
+D:\TPO 11-12\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\TPO 11-12\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\TPO 11-12\bin\Debug\net6.0\nunit.engine.dll
+D:\TPO 11-12\bin\Debug\net6.0\nunit.engine.api.dll
+D:\TPO 11-12\bin\Debug\net6.0\nunit.engine.core.dll
+D:\TPO 11-12\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\TPO 11-12\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\TPO 11-12\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\TPO 11-12\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\TPO 11-12\bin\Debug\net6.0\Tests.deps.json
+D:\TPO 11-12\bin\Debug\net6.0\Tests.runtimeconfig.json
+D:\TPO 11-12\bin\Debug\net6.0\Tests.dll
+D:\TPO 11-12\bin\Debug\net6.0\Tests.pdb
+D:\TPO 11-12\bin\Debug\net6.0\AngleSharp.dll
+D:\TPO 11-12\bin\Debug\net6.0\SeleniumExtras.PageObjects.dll
+D:\TPO 11-12\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+D:\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\TPO 11-12\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\TPO 11-12\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\TPO 11-12\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TPO 11-12\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\TPO 11-12\bin\Debug\net6.0\nunit.framework.dll
+D:\TPO 11-12\bin\Debug\net6.0\WebDriver.dll
+D:\TPO 11-12\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\TPO 11-12\bin\Debug\net6.0\WebDriverManager.dll
+D:\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPO 11-12\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPO 11-12\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+D:\TPO 11-12\obj\Debug\net6.0\Tests.resorces.UserFirst.resources
+D:\TPO 11-12\obj\Debug\net6.0\Tests.csproj.GenerateResource.cache
+D:\TPO 11-12\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPO 11-12\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+D:\TPO 11-12\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+D:\TPO 11-12\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+D:\TPO 11-12\obj\Debug\net6.0\Tests.csproj.CopyComplete
+D:\TPO 11-12\obj\Debug\net6.0\Tests.dll
+D:\TPO 11-12\obj\Debug\net6.0\refint\Tests.dll
+D:\TPO 11-12\obj\Debug\net6.0\Tests.pdb
+D:\TPO 11-12\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+D:\TPO 11-12\obj\Debug\net6.0\ref\Tests.dll
+D:\TPO 11-12\bin\Debug\net6.0\WebDriver.Support.dll
